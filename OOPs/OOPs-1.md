@@ -4,7 +4,7 @@ Any entity that has state and behavior is known as an object. An Object can be d
 # Class
 Collection of objects is called class. It is a logical entity. It is a blueprint for creating objects. Class is a user defined data type.
 
-> What is the need for OOPs?
+> What is the need for OOPs?<br>
 The concept of “objects” allows the OOPs model to easily access, use and modify the instance data and methods, interact with other objects, and define methods in runtime (during the execution of the program)
 
 ### Package is a bundle of classes
